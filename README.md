@@ -1,0 +1,1 @@
+This repository contains the Library Management System's C# Sharp WPF foundation project.
